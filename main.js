@@ -1,5 +1,8 @@
+//habiba 16003112
+
 const fs = require('fs');
 //conversions
+
 function timeToSec(timeStr) {
     let cleaned = timeStr.trim();
     let parts = cleaned.split(' '); 
